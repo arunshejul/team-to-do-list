@@ -6,7 +6,7 @@ const Header = () => {
         <div className="container">
             <header style={headerStyle}>
                 <br />
-                <h1>TodoList</h1>
+                <h1>Team To-Do List</h1>
                 <h4>{moment(new Date()).format('dddd DD MMMM YYYY')}</h4>
             </header>
         </div>
