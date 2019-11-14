@@ -1,4 +1,4 @@
-# team-to-do-list
+# Team To-Do List
 The following assignment is designed to assess a broad range of skills, which we require of our frontend engineering team members. We recommend spending no more than a few hours on this assignment. The areas of focus are up to you.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
